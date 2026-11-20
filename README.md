@@ -1,4 +1,3 @@
-<!-- GitHub Profile README | replace lightweight SVGs with illustrated files from the supplied ZIP for the portrait-enhanced version. -->
 ![Introduction](./assets/hero.svg?v=1)
 
 ![About and interests](./assets/about-life.svg?v=1)
@@ -26,4 +25,3 @@
 
 📍 Irving, Texas, USA · Data Engineer | Data Analyst | Azure & GenAI
 
-> The illustrated profile assets are available in the downloadable profile package and can replace these lightweight SVG sections.
